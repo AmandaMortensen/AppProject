@@ -62,5 +62,4 @@ SELECT CASE
            avg(user_rating) AS Avg_Rating 
            FROM AppleStore
            GROUP BY App_Type 
-           
 
