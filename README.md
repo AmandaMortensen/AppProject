@@ -1,8 +1,12 @@
 # App Development Project
 
+
+
 **Situation**
 
 In this project, I hypothetically worked as a data analyst for an app developer, with the aim of providing data driven insights to make informed recommendations on what kind of app to build. 
+
+
 
 **Task** 
 
@@ -13,9 +17,12 @@ Some of the questions to be explored throughout the data analysis were:
 - How can the app maximise user rating? 
 
 
+
+
 **Action** 
 
 In order to undertake this project, I did some data exploration and data analysis in SQL, to identify key features of success app (app with high ratings). 
+
 
 
 
@@ -47,15 +54,20 @@ WHERE app_desc is NULL
  ```
 
 
+
+
 **Example of Data Analysis**
 
+
 #Get an overview of the apps' ratings 
+
 
  ```
 SELECT min(user_rating) AS MinRating,
        max(user_rating) AS MaxRating,
        avg(user_rating) AS AvgRating 
  ```
+
 
 
 #Determine whether paid apps have higher rating than free apps 
