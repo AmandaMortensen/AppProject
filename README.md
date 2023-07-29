@@ -2,7 +2,7 @@
 
 **Situation**
 
-In this project, I hypothetically worked as a data analyst for an app developer, with the aim of providing data driven insights to make an informed recommendations on what kind of app to build. 
+In this project, I hypothetically worked as a data analyst for an app developer, with the aim of providing data driven insights to make informed recommendations on what kind of app to build. 
 
 **Task** 
 
