@@ -19,7 +19,8 @@ In order to undertake this project, I did some data exploration and data analysi
 
 
 
-**Example of data exploration **
+**Example of Data Exploration**
+
 
 #Check for the number of unique apps in both tables 
 
@@ -42,7 +43,7 @@ WHERE app_desc is NULL
 
 
 
-**Example of Data Analysis **
+**Example of Data Analysis**
 
 #Get an overview of the apps' ratings 
 
