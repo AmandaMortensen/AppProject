@@ -2,13 +2,13 @@
 
 
 
-**Situation**
+### **Situation**
 
 In this project, I hypothetically worked as a data analyst for an app developer, with the aim of providing data driven insights to make informed recommendations on what kind of app to build. 
 
 
 
-**Task** 
+### **Task** 
 
 Some of the questions to be explored throughout the data analysis were: 
 
@@ -19,14 +19,14 @@ Some of the questions to be explored throughout the data analysis were:
 
 
 
-**Action** 
+### **Action** 
 
 In order to undertake this project, I did some data exploration and data analysis in SQL, to identify key features of success app (app with high ratings). 
 
 
 
 
-**Example of Data Exploration**
+## **Example of Data Exploration**
 
 
 #Check for the number of unique apps in both tables 
@@ -56,7 +56,7 @@ WHERE app_desc is NULL
 
 
 
-**Example of Data Analysis**
+## **Example of Data Analysis**
 
 
 #Get an overview of the apps' ratings 
