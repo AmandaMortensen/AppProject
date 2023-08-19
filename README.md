@@ -35,6 +35,8 @@ Based on the data analysis I the following conclusions were found:
 - The apps have an average rating of 3.5 
 
 
+### **Result** 
+
 **Recommendations** 
 1. In terms of price, the App Developer should consider charging money for his app, as the analysis shows people (for a multitude of reasons), tend to rate paid apps higher than free apps 
 2. For languagues, it is not about having the most quantity of languges, so the App Developer should more foucs on supporting the right languages by looking into the most popular 10 - 30 languages spoken where the app is going to be published
